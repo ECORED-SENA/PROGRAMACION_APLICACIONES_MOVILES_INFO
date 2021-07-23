@@ -20,9 +20,9 @@ section
                 p.banner-principal__datos__item__texto 228123
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
-                p.banner-principal__datos__item__texto 228123 horas
+                p.banner-principal__datos__item__texto 2256 horas
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
+                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en meses: 
                 p.banner-principal__datos__item__texto 15 meses
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
@@ -49,10 +49,18 @@ section
           .video.shadow-box
             | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/hlH1xWz6Gyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
+  .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
+    .titulo__template--a.mb-4
+      span.h4 1. Presentación
+    figure
+      .video.shadow-box
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 1. Justificación del programa
+      span.h4 2. Justificación del programa
     p.mb-3 Como parte de las estrategias del Estado Colombiano para mantener y mejorar el desarrollo económico, el Estado promovió la Ley 1834 de 2017 – Ley Naranja, la cual tiene como objeto desarrollar, fomentar, incentivar y proteger las industrias creativas. Estas son entendidas como aquellas industrias que generan valor en razón de sus bienes y servicios, los cuales se fundamentan en la propiedad intelectual. Integra medios digitales, diseño y publicidad para el desarrollo de contenidos que impulsen el emprendimiento y enfoque de los sectores económicos a diversos mercados.
     p.mb-3  El desarrollo de soluciones para dispositivos móviles se convierte en una gran herramienta para impulsar la economía naranja y las industrias creativas, pues utiliza las plataformas tecnológicas para llegar de manera innovadora a nuevos mercados y apertura de fronteras. El desarrollo para dispositivos móviles, además, guarda estrecha relación con tecnologías emergentes como la realidad virtual, aumentada y mixta y se integra de forma eficiente con la computación en la nube y la visión artificial, eslabones propios de la cuarta revolución industrial.
     p.mb-3  Los dispositivos móviles se han convertido en elementos permanentes de uso personal y empresarial. Por tal motivo, las aplicaciones móviles ocupan un importante lugar entre las herramientas de comunicación rápidas y eficientes. El creciente uso de dispositivos inteligentes ha provocado que las llamadas App, se conviertan en estrategias digitales para potenciar el modelo de negocios, conexión con las personas, las empresas y los grupos de valor. El desarrollo móvil se aplica de gran manera como canal de comunicación para el despliegue de contenido, educación, finanzas, compras y entretenimiento, entre otras actividades. 
@@ -64,7 +72,7 @@ section
     p.mb-3  El programa técnico en programación de aplicaciones para dispositivos móviles ofrece la oportunidad de incorporar personal con alta calidad humana, laboral y profesional en todos los sectores, ya sean industriales, comerciales, de servicios, extractivos o primarios, contribuyendo con el desarrollo económico, social y tecnológico del país. 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 2. Competencias a desarrollar
+      span.h4 3. Competencias a desarrollar
     ul.lista-ul
       li  
         i.fas.fa-check  
@@ -114,7 +122,7 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 3. Perfil de ingreso
+      span.h4 4. Perfil de ingreso
     ul.lista-ul
       li  
         p Nivel académico adecuado para caracterizar al aspirante de acuerdo con el perfil de egreso: <b>básica</b>
@@ -131,13 +139,13 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 4. Perfil de egreso
+      span.h4 5. Perfil de egreso
     p.mb-3  El egresado del programa técnico programación de aplicaciones para dispositivos móviles, es un talento humano con una formación profesional integral que estará en la capacidad de codificar software para dispositivos móviles, desarrollar aplicaciones, diseñar y generar bases de datos para dispositivos móviles, crear Interfaces para aplicaciones móviles, interpretar diagramas para la codificación, realizar pruebas de funcionamiento y brindar soporte al software; con gran capacidad para trabajar en equipo, seguir orientaciones, y capacidad de adaptación al cambio.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 5. Estrategia metodológica
-    p.mb-4  Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en el utilización de las tecnologías de la información y la comunicación, integradas, en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
+      span.h4 6. Estrategia metodológica
+    p.mb-4  Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas, en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
     p.mb-4  Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
     ul
       li  El instructor - Tutor  
